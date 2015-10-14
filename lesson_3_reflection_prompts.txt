@@ -11,3 +11,6 @@ Branch: only used in local, it’s not a copy, just different version of the fil
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 So I can know how many changes have been made on the remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I will use dropbox to sync. The harder part is that I can’t easily compare the change between different files, the easier part is that I don’t have to push or pull files from GitHub into my local directory.
